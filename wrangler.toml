@@ -1,4 +1,4 @@
-name = "cf-worker-ws-dev-0415" # todo
+name = "mamamurka" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 
@@ -8,4 +8,4 @@ main = "src/worker-vless.js"
 compatibility_date = "2024-04-15"
 
 [vars]
-# UUID = "example_dev_token"
+UUID = "a081466c-2860-4e98-a466-5a2ee7b1ac4a"
